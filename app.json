@@ -35,6 +35,16 @@
       "description": "After What Time Next Pic To Be Changed Place Time in Seconds Eg- 60 it means 1 minute",
       "value": "60",
       "required": true
+    },
+    "PORT": {
+      "description": "webport"
+      "value": "8080",
+      "required": true
+    },
+    "WEBHOOK": {
+      "description": "for websupport"
+      "value": "True",
+      "required": true
     }
   },
   "addons": [
